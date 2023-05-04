@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "langchaing-nl2sql"
-version = "0.1.0"
+version = "0.1.1"
 description = "Langchaing tabular data query POC"
 readme = "README.md"
 authors = ["SageData <dimitar.petrunov@sagedata.net>"]
