@@ -7,8 +7,8 @@ from random import choice
 import typer
 from rich.console import Console
 
-from langchaing_nl2sql import version
-from langchaing_nl2sql.example import hello
+from langchain_nl2sql import version
+from langchain_nl2sql.example import hello
 
 
 class Color(str, Enum):

@@ -29,7 +29,7 @@ classifiers = [  #! Update me
 
 [tool.poetry.scripts]
 # Entry points for the package https://python-poetry.org/docs/pyproject/#scripts
-"langchaing-nl2sql" = "langchaing_nl2sql.__main__:app"
+"langchaing-nl2sql" = "langchain_nl2sql.__main__:app"
 
 [tool.poetry.dependencies]
 python = "^3.9"

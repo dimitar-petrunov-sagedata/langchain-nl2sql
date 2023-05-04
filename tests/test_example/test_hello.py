@@ -1,7 +1,7 @@
 """Tests for hello function."""
 import pytest
 
-from langchaing_nl2sql.example import hello
+from langchain_nl2sql.example import hello
 
 
 @pytest.mark.parametrize(
