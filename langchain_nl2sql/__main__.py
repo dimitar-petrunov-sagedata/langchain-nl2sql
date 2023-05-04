@@ -4,9 +4,10 @@ from enum import Enum
 from random import choice
 
 import typer
+from rich.console import Console
+
 from langchain_nl2sql import version
 from langchain_nl2sql.example import hello
-from rich.console import Console
 
 
 class Color(str, Enum):
