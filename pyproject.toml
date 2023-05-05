@@ -51,7 +51,7 @@ pydocstyle = "^6.1.1"
 pylint = "^2.11.1"
 pyupgrade = "^2.29.1"
 safety = "^2.2.0"
-coverage = "^6.1.2"
+coverage = "^7.2.5"
 coverage-badge = "^1.1.0"
 pytest-cov = "^4.0.0"
 
